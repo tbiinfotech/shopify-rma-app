@@ -3,9 +3,11 @@
 
 ----
 
+Developed a custom Shopify RMA (Return Merchandise Authorization) app for one of our clients who was looking for a systematic solution for returns/exchange authorization feature for its Shopify store. He wanted us to develop an RMA portal where the customers can simply sign in to their accounts on the website, fill in a return authorization form, and be issued with a valid authorization number and the need to track things manually gets eliminated.
+
 # Technology Stack
 
 - [x] Shopify Polaris
-- [x] React powered front-end
-- [x] Node.js with Postgres based back-end
+- [x] React JS powered front-end
+- [x] Node JS with Postgres based back-end
 - [x] GraphQL as a query language
